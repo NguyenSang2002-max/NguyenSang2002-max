@@ -158,7 +158,6 @@ Production-level Software Thinking
 
 ---
 
-## 📊 GitHub Stats
 
 ## 📊 GitHub Overview
 
