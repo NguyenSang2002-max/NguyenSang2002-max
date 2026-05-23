@@ -160,13 +160,23 @@ Production-level Software Thinking
 
 ## 📊 GitHub Stats
 
+## 📊 GitHub Overview
+
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=NguyenSang2002-max&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NguyenSang2002-max&theme=tokyonight" alt="GitHub Profile Summary" />
 
 <br/><br/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenSang2002-max&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NguyenSang2002-max&theme=tokyonight" alt="Repos per Language" />
+
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NguyenSang2002-max&theme=tokyonight" alt="Most Commit Language" />
+
+<br/><br/>
+
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NguyenSang2002-max&theme=tokyonight" alt="GitHub Stats" />
+
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NguyenSang2002-max&theme=tokyonight&utcOffset=7" alt="Productive Time" />
 
 </div>
 
