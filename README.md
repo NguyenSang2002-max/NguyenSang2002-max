@@ -16,7 +16,7 @@
 
 ## 👨‍💻 About Me
 
-Hi, I’m **Nguyễn Sáng**.
+Hi, I’m **Nguyễn Hữu Sáng**.
 
 I am a software engineer from Vietnam.  
 I enjoy learning new technologies, building real projects, fixing bugs, and improving my programming mindset every day.
